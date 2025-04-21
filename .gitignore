@@ -1,0 +1,10 @@
+# Archivos del sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Configuraciones del editor
+.vscode/
+*.side
+
+# Archivos temporales
+*.log
